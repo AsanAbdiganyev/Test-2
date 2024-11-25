@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Zoro",
+    "age": 21,
+    "hobby":"Мечник",
+    "weight": 80,
+    "height": 181
+  },
+  {
+    "name": "Monki D Luffy",
+    "age": 21,
+    "hobby": "Кушать Мясо",
+    "weight": 66,
+    "height": 172
+  }
+]
